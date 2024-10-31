@@ -106,7 +106,7 @@ _Students who already know basic programming in any language can skip this first
 
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
 
-[Java Programming](https://java-programming.mooc.fi/)
+[Java Programming](https://java-programming.mooc.fi/)✅
 
 [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
